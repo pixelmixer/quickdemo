@@ -1,7 +1,4 @@
 I added a first line.
 
 
-I added a few lines and created some more text.
-
-
 I added a line inside textedit.
