@@ -2,3 +2,6 @@ I added a first line.
 
 
 I added a line inside textedit.
+
+
+Another line
